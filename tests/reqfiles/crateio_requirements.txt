@@ -32,7 +32,7 @@ MarkupSafe==0.15
 South==0.7.5
 amqplib==1.0.2
 anyjson==0.3.3
-bleach==1.1.1
+bleach==3.3.0
 boto==2.3.0
 celery==2.5.5
 celery-haystack==0.4
